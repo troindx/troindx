@@ -1,4 +1,3 @@
-### Hi there 👋 this is Juan, Digital Nomad - Computer Engineer from Valencia / Spain
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -84,6 +83,8 @@
 		</div>
 	</foreignObject>
 </svg>
+
+### Hi there 👋 this is Juan, Digital Nomad - Computer Engineer from Valencia / Spain
 ![visitors](https://page-views.glitch.me/badge?page_id=troindx)
 
 <!--
