@@ -1,4 +1,4 @@
-<img src="header.svg" width="600" height="300" alt="Juan is what you get">
+<a href="https://www.hamrodev.com/en/juan"><img src="headerjuan.svg" width="600" height="300" alt="Juan is what you get"></a>
 ### Hi there 👋 this is Juan, Digital Nomad - Senior Computer Engineer from Valencia / Spain
 <br>
 
