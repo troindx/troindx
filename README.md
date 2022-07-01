@@ -4,8 +4,8 @@
 
 ![visitors](https://page-views.glitch.me/badge?page_id=troindx)
 
-- 🖥️ I am currently working on <a href="https://www.hamrodev.com/">Hamro Dev</a>, my own consultancy firm for IT development. I work within a network of remote developers, making prototypes, coding software and apps for clients from all over the globe, helping them empower their vision and creating awesome final products.
-- 🌱 Currently learning <b>Ethereum + Solidity</b>
+- 🖥️ I am currently working on <a href="https://www.soprasteria.com/">Sopra Steria</a>, a french consultancy firm for IT development.
+- 🌱 Currently learning <b>NestJS</b>
 - ✨ I have knowledge and proficiency ✨ in Typescript, Javascript, Angular, Node, PHP, C# , C++, Java and 🐍 Python.
 - 💬 Ask me about digital software development, ideas and Magic, the gathering.
 - 📫 You can reach me via <a href="mailto:juan@hamrodev.com">email</a> or <a href="https://www.linkedin.com/in/jvilarsanchis/">linkedin</a>
