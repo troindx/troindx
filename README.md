@@ -4,9 +4,9 @@
 
 ![visitors](https://page-views.glitch.me/badge?page_id=troindx)
 
-- 🖥️ I am currently working on <a href="https://www.soprasteria.com/">Sopra Steria</a>, a french consultancy firm for IT development.
-- 🌱 Currently learning <b>NestJS</b>
-- ✨ I have knowledge and proficiency ✨ in Typescript, Javascript, Angular, Node, PHP, C# , C++, Java and 🐍 Python.
+- 🖥️ I am currently looking for work.
+- 🌱 Currently learning <b>Elastic Search</b>
+- ✨ I have knowledge and proficiency ✨ in Typescript, Javascript, Angular, Node, PHP, C# , C++, Java, Arduino, Raspberry Pi, Solidity and 🐍 Python.
 - 💬 Ask me about digital software development, ideas and Magic, the gathering.
 - 📫 You can reach me via <a href="mailto:juan@hamrodev.com">email</a> or <a href="https://www.linkedin.com/in/jvilarsanchis/">linkedin</a>
 
