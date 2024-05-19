@@ -1,11 +1,10 @@
-<a href="https://www.hamrodev.com/en/juan"><img src="headerjuan.svg" width="600" height="300" alt="Juan is what you get"></a>
+<a href="https://www.hamrodev.com/juan"><img src="headerjuan.svg" width="600" height="300" alt="Juan is what you get"></a>
 ### Hi there 👋 this is Juan, Digital Nomad - Senior Computer Engineer from Valencia / Spain
 <br>
 
 ![visitors](https://page-views.glitch.me/badge?page_id=troindx)
 
-- 🖥️ I am currently looking for work.
-- 🌱 Currently learning <b>Elastic Search</b>
+- 🌱 Currently learning <b>Rust</b>
 - ✨ I have knowledge and proficiency ✨ in Typescript, Javascript, Angular, Node, PHP, C# , C++, Java, Arduino, Raspberry Pi, Solidity and 🐍 Python.
 - 💬 Ask me about digital software development, ideas and Magic, the gathering.
 - 📫 You can reach me via <a href="mailto:juan@hamrodev.com">email</a> or <a href="https://www.linkedin.com/in/jvilarsanchis/">linkedin</a>
