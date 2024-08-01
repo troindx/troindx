@@ -4,6 +4,7 @@
 
 ![visitors](https://page-views.glitch.me/badge?page_id=troindx)
 
+Coding is one of my passions, and I am proficient at software engineering and Software Development.
 - ✨ I have knowledge and proficiency ✨ in Typescript, Javascript, Angular, Node, PHP, C#, C++, Java, Arduino, Raspberry Pi, Solidity and 🐍 Python.
 - 💬 Ask me about  software engineering, food, travel, politics, and Magic, the gathering.
 - 📫 You can reach me via <a href="mailto:juan@hamrodev.com">email</a> or <a href="https://www.linkedin.com/in/jvilarsanchis/">linkedin</a>
@@ -16,7 +17,8 @@
 - I speak Nepalese at an Intermediate level.
 
 # Showcase
-<p>If you wonder how I code, let me showcase you how I work with these public small coding challenges I have made throughout my years of experience as a Software Engineer</p>
+<p>If you wonder how I code, let me showcase you how I work with these public small coding challenges I have made throughout my years of experience as a Software Engineer. </p>
+<p>These repos are only a showcase of what my programming skills are</p>
 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
