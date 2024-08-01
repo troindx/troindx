@@ -1,4 +1,4 @@
-<a href="https://hamrodev.com/cv"><img src="headerjuan.svg" width="600" height="300" alt="Juan is what you get"></a>
+<a href="https://hamrodev.com/cv"><img src="headerjuan.svg" width="100%" height="400px" alt="Juan is what you get"></a>
 ### Hi there 👋 this is Juan, Digital Nomad - Senior Computer Engineer from Valencia / Spain
 <br>
 
