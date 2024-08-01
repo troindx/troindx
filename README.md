@@ -2,7 +2,7 @@
 ### Hi there 👋 this is Juan, Digital Nomad - Senior Computer Engineer from Valencia / Spain
 <br>
 
-![visitors](https://page-views.glitch.me/badge?page_id=troindx)
+![](https://komarev.com/ghpvc/?username=troindx)
 
 Coding is one of my passions, and I am proficient at software engineering and Software Development. I am a Full stack software engineer, but I rather work in the backend.
 - ✨ I have knowledge and proficiency ✨ in Typescript, Javascript, Angular, Node, PHP, C#, C++, Java, Arduino, Raspberry Pi, Solidity and 🐍 Python.
