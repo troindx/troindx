@@ -16,6 +16,7 @@
 - I speak Nepalese at an Intermediate level.
 
 # Showcase
+<p>If you wonder how I code, let me showcase you how I work with these public small coding challenges I have made throughout my years of experience as a Software Engineer</p>
 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
