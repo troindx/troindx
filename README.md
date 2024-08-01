@@ -4,8 +4,9 @@
 
 ![visitors](https://page-views.glitch.me/badge?page_id=troindx)
 
-Coding is one of my passions, and I am proficient at software engineering and Software Development.
+Coding is one of my passions, and I am proficient at software engineering and Software Development. I am a Full stack software engineer, but I rather work in the backend.
 - ✨ I have knowledge and proficiency ✨ in Typescript, Javascript, Angular, Node, PHP, C#, C++, Java, Arduino, Raspberry Pi, Solidity and 🐍 Python.
+- Regarding Hardware, I am proficient in Arduino and circuit board design using Fritzing.
 - 💬 Ask me about  software engineering, food, travel, politics, and Magic, the gathering.
 - 📫 You can reach me via <a href="mailto:juan@hamrodev.com">email</a> or <a href="https://www.linkedin.com/in/jvilarsanchis/">linkedin</a>
 
