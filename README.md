@@ -22,7 +22,7 @@ Coding is one of my passions, and I am proficient at software engineering and So
 <p>These repos are only a showcase of what my programming skills are</p>
 
 <div>
-	### Cat Navigator, Frontend Development + Backend API
+	<h3>Cat Navigator, Frontend Development + Backend API</h3>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -32,7 +32,7 @@ Coding is one of my passions, and I am proficient at software engineering and So
 </div>
 <br><br>
 <div>
-	### Oxidize, a backend framework developed in RUST for API REST development of endpoints
+	<h3>Oxidize, a backend framework developed in RUST for API REST development of endpoints</h3> 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code><br><br>
@@ -41,7 +41,7 @@ Coding is one of my passions, and I am proficient at software engineering and So
 <br><br>
 
 <div >
-	### Raspberry Pi DNS Zone Changer
+	<h3>Raspberry Pi Dynamic DNS Zone Changer</h3> 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberri Pi" title="Raspberri Pi"/></code><br><br>
@@ -50,7 +50,7 @@ Coding is one of my passions, and I am proficient at software engineering and So
 <br><br>
 
 <div >
-	### Newspaper Scrapper, API REST in Express js + MongoDB
+	<h3>Newspaper Scrapper, API REST in Express js + MongoDB</h3>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
@@ -59,7 +59,7 @@ Coding is one of my passions, and I am proficient at software engineering and So
 </div>
 <br><br>
 <div >
-	### 3D Imaging in Frontend with Angular and Union Avatars API
+	<h3> 3D Imaging in Frontend with Angular and Union Avatars API</h3> 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
@@ -68,7 +68,7 @@ Coding is one of my passions, and I am proficient at software engineering and So
 </div>
 <br><br>
 <div >
-	### Coding Challenge for an API REST Endpoint using NestJS and JEST for Testing
+	<h3>Coding Challenge for an API REST Endpoint using NestJS and JEST for Testing</h3> 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
