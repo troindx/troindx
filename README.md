@@ -15,7 +15,7 @@ Coding is one of my passions, and I am proficient at software engineering and So
 
 ## Languages
 - I speak Spanish, English, French, Italian, and Valencian with fluency
-- I speak Nepalese at an Intermediate level.
+- I speak Nepali at an Intermediate level.
 
 # Showcase
 <p>If you wonder how I code, let me showcase you how I work with these public small coding challenges I have made throughout my years of experience as a Software Engineer. </p>
